@@ -1,3 +1,5 @@
+#hola, yo estoy en branch main, que ahora no es default porque fue la segunda??
+
 logout = False
 
 #viene a ser un crud a mano, en la carpeta /datos irían en texto plano los players
