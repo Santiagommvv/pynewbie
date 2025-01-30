@@ -1,3 +1,5 @@
+#dev-ería mergearme a main y no al revés.
+
 logout = False
 
 #viene a ser un crud a mano, en la carpeta /datos irían en texto plano los players
