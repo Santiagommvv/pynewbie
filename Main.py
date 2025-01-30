@@ -1,4 +1,4 @@
-#hola, yo estoy en branch main, que ahora no es default porque fue la segunda??
+#dev-ería mergearme a main y no al revés.
 
 logout = False
 
